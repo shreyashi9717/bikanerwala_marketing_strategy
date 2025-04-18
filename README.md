@@ -1,70 +1,47 @@
-# bikanerwala_marketing_strategy
-his repository contains a detailed strategic research project analyzing **Bikanervala**, one of India's leading ethnic snack and sweets brands. The project was created for the role of **Strategic Research Analyst**, highlighting key aspects of brand strategy, marketing, consumer segmentation, and competitive positioning.
+#  Strategic Marketing Research Portfolio
+
+This repository contains two detailed strategic research analyses developed for the role of **Strategic Research Analyst**. Each project presents a comprehensive brand-level study, including market positioning, consumer segmentation, communication strategies, and distribution frameworks.
 
 ---
 
-##  Overview
+##  Projects Included
 
-This study explores Bikanervala's strategic approach in a highly competitive Indian snack market. By benchmarking it against major players like **Haldiram**, **Balaji**, and **Bikaji**, the analysis evaluates the company's strengths, weaknesses, and growth opportunities through a data-driven lens.
+###  1. **Bikanervala – Traditional Indian Snack Brand**
 
----
+A deep dive into **Bikanervala**, a heritage Indian brand offering snacks and sweets, exploring its:
 
-##  Key Insights
+-  Market share & competitive positioning (vs. Haldiram, Balaji, Bikaji)
+-  Product mix: Namkeens, sweets, ready meals, beverages
+-  Emotional & culture-driven campaigns like `#PyaarKaMeethaBandhan`
+-  Multi-channel distribution: Retail, e-commerce, food apps
+-  Tiered pricing targeting middle and upper-middle class
+-  Segmentation: Urban Indian families, professionals, and gift buyers
 
-### 1.  **Market Share and Positioning**
-- Bikanervala holds a **36.6% market share**, positioning itself between **premium quality** and **mass accessibility**.
-- Strong urban and semi-urban presence, appealing to **quality-conscious and culturally connected consumers**.
+###   2.  **Sofy – Menstrual Hygiene Brand**
 
-### 2.  **Product Strategy**
-- Offers a wide **product mix**: Namkeens, sweets, ready-to-eat meals, bakery items, and beverages.
-- Balances **consistency (shared heritage, ingredients)** with **variety (diverse flavors, targeted SKUs)**.
+An in-depth strategic analysis of **Sofy**, a brand in the feminine hygiene space, focusing on:
 
-### 3.  **Communication & Campaign Strategy**
-- Emotional, culturally rich campaigns like:
-  - `#PyaarKaMeethaBandhan` (Raksha Bandhan)
-  - `Maa Se Behtar Hume Jaane Kaun` (Mother's Day)
-  - `Barson se Bikano` (legacy and taste-focused)
-- These resonate deeply with **family-oriented Indian audiences**.
+-  Product mix: Sanitary pads, panty liners, and tampons with antibacterial and cooling variants
+-  Segmentation & targeting:
+  - Primary: Teenagers and young women (12–25)
+  - Secondary: Working women and homemakers (26–45)
+-  Campaigns:  
+  - `#SwitchToCool` ft. Bhumi Pednekar  
+  - **Project Jagriti** – social impact initiative on menstrual education
+- Distribution: E-commerce, retail stores, niche channels
+-  Pricing strategy: Value-based, tiered, promotional pricing
 
-### 4.  **Distribution Channels**
-- **Omni-channel approach**:
-  - 200+ retail outlets (domestic and international)
-  - Online presence via Amazon, Flipkart, BigBasket, and their own website
-  - Strategic partnerships with Swiggy, Zomato, and local/global distributors
+##  Strategic Insights Highlighted
 
-### 5.  **Pricing Strategy**
-- **Occasion-based premium pricing** for festivals.
-- Appeals to **middle and upper-middle class** buyers with quality and heritage as key value propositions.
+- Use of **emotional and functional positioning** to connect with core audiences
+- Emphasis on **tiered and occasion-based pricing** to maximize reach
+- Omni-channel distribution models combining traditional and digital strategies
+- Strong focus on **consumer psychology, awareness, and hygiene education**
 
-### 6.  **Segmentation & Targeting**
-- **Primary Target Audience**: 25–45-year-old Indians, professionals, students, homemakers
-- **Psychographic**: Health-conscious, culturally rooted, values authenticity
-- **Geographic**: Urban/semi-urban India, global Indian diaspora (USA, UAE, UK)
+##  Tools & Frameworks Used
 
----
-
-## 📈 Competitive Benchmarking
-
-| Brand         | Market Share | Strategy                        |
-|---------------|--------------|----------------------------------|
-| **Haldiram**  | ~36.6%       | Broad range + premium dining     |
-| **Balaji**    | ~9.6%        | High volume, low price           |
-| **Bikaji**    | ~5.9%        | Competitive retail + urban focus |
-| **Bikanervala**| ~36.6%      | Premium + cultural connection    |
-
----
-
-## 📄 Report Contents
-
-- 📊 Market share analysis  
-- 🎯 Segmentation and targeting model  
-- 🛍️ Product mix and innovation strategy  
-- 🚚 Distribution and channel strategy  
-- 💬 Communication campaigns  
-- 💡 Key consumer insights
-
-  Tools Used
-
--  Research & analysis
--  Figma for visual presentation design
--  Marketing strategy frameworks (STP, 4Ps, etc.)
+- STP (Segmentation, Targeting, Positioning)
+- 4Ps of Marketing (Product, Price, Place, Promotion)
+- SWOT Analysis
+- Competitor Benchmarking
+- Visual storytelling via Figma & report design
